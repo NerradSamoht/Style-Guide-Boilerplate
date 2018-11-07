@@ -1,0 +1,32 @@
+{
+  "name": "style-guide-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerradSamoht/style-guide-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^9.0.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "dependencies": {
+    "@reach/router": "^1.2.1",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/NerradSamoht/style-guide-boilerplate/issues"
+  },
+  "homepage": "https://github.com/NerradSamoht/style-guide-boilerplate#readme"
+}
