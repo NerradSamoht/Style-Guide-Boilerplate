@@ -3,9 +3,18 @@ import React from "react";
 const Buttons = () => (
   <section id="buttons">
     <h2>Buttons</h2>
-    <button>Small</button>
-    <button>Medium</button>
-    <button>Large</button>
+
+    <div>
+      <button>Small</button>
+    </div>
+
+    <div>
+      <button>Medium</button>
+    </div>
+
+    <div>
+      <button>Large</button>
+    </div>
   </section>
 );
 

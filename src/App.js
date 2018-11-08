@@ -18,14 +18,22 @@ class App extends React.Component {
       <div className="page-container">
         <Navigation />
         <main className="main-content">
-          <Buttons />
-          <Lists />
-          <Elements />
-          <Media />
-          <Typography />
-          <Tables />
-          <Form />
+          <h1>Style Guide</h1>
           <Colors />
+          <hr />
+          <Typography />
+          <hr />
+          <Elements />
+          <hr />
+          <Buttons />
+          <hr />
+          <Lists />
+          <hr />
+          <Form />
+          <hr />
+          <Tables />
+          <hr />
+          <Media />
         </main>
       </div>
     );

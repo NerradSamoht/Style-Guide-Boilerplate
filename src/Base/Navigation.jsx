@@ -1,8 +1,9 @@
 import React from "react";
 
 const Navigation = () => (
-  <nav className="nav">
-    <ul className="nav-list">
+  <nav className="main-menu">
+    <h2>Navigation</h2>
+    <ul className="main-menu-links">
       <li>
         <a href="#colors">Colors</a>
       </li>
@@ -22,7 +23,7 @@ const Navigation = () => (
         <a href="#forms">Forms</a>
       </li>
       <li>
-        <a href="#bables">Tables</a>
+        <a href="#tables">Tables</a>
       </li>
       <li>
         <a href="#media">Media</a>

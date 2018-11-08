@@ -1,11 +1,12 @@
 import React from "react";
 
 const Media = () => (
-  <div>
+  <section id="media">
+    <h2>Media</h2>
     <video src="" />
 
     <audio src="" />
-  </div>
+  </section>
 );
 
 export default Media;

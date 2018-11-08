@@ -1,24 +1,38 @@
 import React from "react";
 
 const Base = () => (
-  <section>
+  <section id="elements">
     <h2>Basic Elements</h2>
 
-    <address>_</address>
+    <div>
+      <address>_</address>
+    </div>
 
-    <blockquote>_</blockquote>
+    <div>
+      <blockquote>_</blockquote>
+    </div>
 
-    <details>
-      -<summary>_</summary>
-    </details>
+    <div>
+      <details>
+        -<summary>_</summary>
+      </details>
+    </div>
 
-    <figure>_</figure>
+    <div>
+      <figure />
+    </div>
 
-    <hr />
+    <div>
+      <hr />
+    </div>
 
-    <pre />
+    <div>
+      <pre />
+    </div>
 
-    <code />
+    <div>
+      <code />
+    </div>
   </section>
 );
 
