@@ -1,11 +1,12 @@
 import React from "react";
 
 const Buttons = () => (
-  <div>
+  <section id="buttons">
+    <h2>Buttons</h2>
     <button>Small</button>
     <button>Medium</button>
     <button>Large</button>
-  </div>
+  </section>
 );
 
 export default Buttons;

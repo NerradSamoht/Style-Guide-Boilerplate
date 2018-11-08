@@ -1,7 +1,9 @@
 import React from "react";
 
 const Base = () => (
-  <div>
+  <section>
+    <h2>Basic Elements</h2>
+
     <address>_</address>
 
     <blockquote>_</blockquote>
@@ -17,7 +19,7 @@ const Base = () => (
     <pre />
 
     <code />
-  </div>
+  </section>
 );
 
 export default Base;
